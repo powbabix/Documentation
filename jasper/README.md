@@ -9,12 +9,12 @@ Things you will need to work with,
 
 ## Getting Operating System Image
 ### DOWNLOAD THE IMAGE
-  [[Where to grab the latest image from?|Jasper---Image-Information]]
+  [Where to grab the latest image from?](images/README.md)
 ### WRITING AN IMAGE TO THE SD CARD
   After downloading the `.zip` file, unzip it to get the image file (`.img`) for writing to your SD card. After that you would need an image writing tool to write that image to your SD Card. Depending upon the OS, please visit the below link to know more about how to do that.
-* [[Windows|Install-via-Windows]]
-* [[Linux|Install-via-Linux]]
-* [[Mac|Install-via-Mac]]
+* [Windows](install-image/windows.md)
+* [Linux](install-image/linux.md)
+* [Mac](install-image/mac.md)
 
 ## Installing Jasper
 ## Configuration
