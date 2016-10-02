@@ -1,5 +1,5 @@
 Welcome to the Documentation [MattCurry.Com](http://www.MattCurry.Com) wiki!
-* [[Jasper Documentation|Jasper---Documentation]]
-* [[How-To's|How-To's]]
-* [[NAOMI Project|NAOMI--Project]]
-* [[Linux Learning Project|Linux--Learning-Project]]
+* [Jasper Documentation](jasper/readme.md)
+* [How-To's](how/readme.md)
+* [NAOMI Project](naomi/readme.md)
+* [Linux Learning Project](linux/readme.md)
