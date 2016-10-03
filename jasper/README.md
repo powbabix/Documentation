@@ -19,7 +19,7 @@ Things you will need to work with,
 * [Mac](install-image/mac.md)
 
 ## Installing Jasper
-Once the .img is written to the SD card, and the OS has booted, SSH into your Raspberry Pi. (check out [Rasbperry Pi documentation link](https://www.raspberrypi.org/documentation/remote-access/ssh/) on how).
+Once the Image is written to the SD card, and the OS has booted, SSH into your Raspberry Pi. (check out [Rasbperry Pi documentation link](https://www.raspberrypi.org/documentation/remote-access/ssh/) on how).
 ```
 Default User: pi  
 Default Password: raspberry (change ASAP)
