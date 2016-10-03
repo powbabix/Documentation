@@ -1,6 +1,8 @@
 #Jasper - Using Sync to get the Image for Jasper
 
-1. Install btsync, like here.
+On a Linux system:
+
+1. Install btsync, like [here](https://help.getsync.com/hc/en-us/articles/206178924-Installing-Sync-package-on-Linux).
 2. Start it like described.
 3. Open your browser with http://127.0.0.1:8888/
 4. Fill out the resilio registration form.
