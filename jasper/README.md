@@ -7,12 +7,12 @@ Things you will need to work with,
 * Internet access.
 * SSH access to raspberry pi.
 
-**Check out our [How-To's](https://github.com/mattcurrycom/Documentation/wiki/How-To's) Section for common tasks.**
+**Check out our [How-To's](../how) Section for common tasks.**
 
 ## Getting Operating System Image
-### DOWNLOAD THE IMAGE
+### Download the image
   [Where to grab the latest image from?](images/README.md)
-### WRITING AN IMAGE TO THE SD CARD
+### Write the image to SD Card
   After downloading the `.zip` file, unzip it to get the image file (`.img`) for writing to your SD card. After that you would need an image writing tool to write that image to your SD Card. Depending upon the OS, please visit the below link to know more about how to do that.
 * [Windows](install-image/windows.md)
 * [Linux](install-image/linux.md)
