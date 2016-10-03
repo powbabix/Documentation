@@ -26,3 +26,6 @@ Once the .img is written to the SD card, and the OS has booted you will need to 
 
 ## Configuration
 ## What to do next?
+**DO NOT USE POPULATE.PY**
+
+* [Post Image Seteup](https://github.com/mattcurrycom/Documentation/blob/master/jasper/jasper-client/Jasper-Post-Image-Setup.md)
