@@ -3,7 +3,7 @@ Supported Hardware
 * Raspberry Pi
 
 Things you will need to work with,
-* A PC/Laptop/System that you can use to [ssh into raspberry pi](https://www.raspberrypi.org/documentation/remote-access/ssh/).
+* A PC/Laptop/System that you can use to ssh into Raspberry Pi.
 * Internet access.
 * SSH access to raspberry pi.
 
@@ -19,13 +19,14 @@ Things you will need to work with,
 * [Mac](install-image/mac.md)
 
 ## Installing Jasper
-Once the .img is written to the SD card, and the OS has booted you will need to complete the [Post-Install Process](jasper-client/Jasper-Post-Image-Setup.md).
-
-    Default User: pi  
-    Default Pass: raspberry (change ASAP)
-
-## Configuration
-## What to do next?
+Once the .img is written to the SD card, and the OS has booted, SSH into your Raspberry Pi. (check out [Rasbperry Pi documentation link](https://www.raspberrypi.org/documentation/remote-access/ssh/) on how).
+```
+Default User: pi  
+Default Password: raspberry (change ASAP)
+```
+Proceed to complete the Post-Image Installation Setup [detailed on this page](jasper-client/Jasper-Post-Image-Setup.md).
 **DO NOT USE POPULATE.PY**
+## Configuration
 
-* [Post Image Setup](https://github.com/mattcurrycom/Documentation/blob/master/jasper/jasper-client/Jasper-Post-Image-Setup.md)
+## What to do next?
+
