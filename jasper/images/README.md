@@ -8,5 +8,5 @@ You would have to [use SYNC](../../how/Using-SYNC-to-get-the-Image.md) to get th
     * Tested With RPI1/2/3
 
 ## Releases
-[Jasper Image V1.5](v1.5/README.md)
-Jasper Image V1.4
+* [Jasper Image V1.5](v1.5/README.md)
+* Jasper Image V1.4
