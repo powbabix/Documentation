@@ -7,13 +7,13 @@ The default setup requires an internet connection.
 * Prepare the OS
   * Setup Wifi (Check out [Raspberry Pi documentation link](https://www.raspberrypi.org/documentation/configuration/wireless/wireless-cli.md) to know more)
   * Open the PI’s configuration screen (in the terminal window) by typing: `sudo raspi-config`
-  * Run the bottom option just to make sure you have the latest version of the configuration software: `update`
-  * Run the second option to Expand SD Card: `expand_rootfs`
-  * Update GPU Memory
-    * Set to 16
-  * Setup Locale
-  * Setup Keyboard
-  * click: `Finish` select `YES` when it asks for a reboot.  
+    * Run the bottom option just to make sure you have the latest version of the configuration software: `update`
+    * Run the second option to Expand SD Card: `expand_rootfs`
+    * Update GPU Memory
+      * Set to 16
+    * Setup Locale
+    * Setup Keyboard
+    * click: `Finish` select `YES` when it asks for a reboot.  
 
 * [Install the Jasper REPO](installation.md)
   * Choose Branch
