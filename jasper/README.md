@@ -19,7 +19,7 @@ Things you will need to work with,
 * [Mac](install-image/mac.md)
 
 ## Installing Jasper
-Once the [.img is written to the SD card](https://github.com/mattcurrycom/Documentation/wiki/HowTo---Burning-an-image-to-an-SD-card), and the OS has booted you will need to complete the [Post-Install Process](https://github.com/mattcurrycom/Documentation/wiki/Jasper---Post-Image-Setup).
+Once the .img is written to the SD card, and the OS has booted you will need to complete the [Post-Install Process](jasper-client/Jasper-Post-Image-Setup.md).
 
     Default User: pi  
     Default Pass: raspberry (change ASAP)
