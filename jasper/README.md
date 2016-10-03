@@ -3,7 +3,7 @@ Supported Hardware
 * Raspberry Pi
 
 Things you will need to work with,
-* A PC/Laptop/System that you can use to ssh into raspberry pi.
+* A PC/Laptop/System that you can use to [ssh into raspberry pi](https://www.raspberrypi.org/documentation/remote-access/ssh/).
 * Internet access.
 * SSH access to raspberry pi.
 
