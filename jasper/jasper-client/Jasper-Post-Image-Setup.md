@@ -11,7 +11,7 @@ The default setup requires an internet connection.
     * Set to 16
   * Setup Locale
   * Setup Keyboard
-* [[Install the Jasper REPO|Jasper---Install-the-Jasper-REPO]]
+* [Install the Jasper REPO](installation.md)
   * Choose Branch
     * Master
     * Jasper-Dev
