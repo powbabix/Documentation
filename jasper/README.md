@@ -7,6 +7,8 @@ Things you will need to work with,
 * Internet access.
 * SSH access to raspberry pi.
 
+**Check out our [How-To's](https://github.com/mattcurrycom/Documentation/wiki/How-To's) Section for common tasks.**
+
 ## Getting Operating System Image
 ### DOWNLOAD THE IMAGE
   [Where to grab the latest image from?](images/README.md)
@@ -17,5 +19,10 @@ Things you will need to work with,
 * [Mac](install-image/mac.md)
 
 ## Installing Jasper
+Once the [.img is written to the SD card](https://github.com/mattcurrycom/Documentation/wiki/HowTo---Burning-an-image-to-an-SD-card), and the OS has booted you will need to complete the [Post-Install Process](https://github.com/mattcurrycom/Documentation/wiki/Jasper---Post-Image-Setup).
+
+    Default User: pi  
+    Default Pass: raspberry (change ASAP)
+
 ## Configuration
 ## What to do next?
