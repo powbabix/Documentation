@@ -1,6 +1,8 @@
 #Jasper - Using Sync to get the Image for Jasper
 
-1. Install btsync, like here.
+On a Debian/Ubuntu style system:
+
+1. Install btsync, like [here](http://ubuntuhandbook.org/index.php/2016/02/howto-install-bittorrent-sync-from-its-official-repository/).
 2. Start it like described.
 3. Open your browser with http://127.0.0.1:8888/
 4. Fill out the resilio registration form.
