@@ -2,6 +2,8 @@
 
 _MattCurry.com Images Only_
 
+DO NOT USE POPULATE.PY
+
 The default setup requires an internet connection.
 
 * Prepare the OS
