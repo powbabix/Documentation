@@ -9,7 +9,7 @@ The default setup requires an internet connection.
 * Prepare the OS
   * Setup Wifi (Check out [Raspberry Pi documentation link](https://www.raspberrypi.org/documentation/configuration/wireless/wireless-cli.md) to know more)
   * Open the PI’s configuration screen (in the terminal window) by typing: `sudo raspi-config`
-    * Under the `Boot Options` menu, select the `Wait for network at boot` option and ensure it is set to `Yes`
+    * Select the `Wait for network at boot` option and ensure it is set to `Yes`
     * Under the `Advanced Options` menu, scroll down to run the bottom `update` option to make sure you have the latest version of raspi-config
     * Run the `Expand Filesystem` option to Expand SD Card
     * Under the `Advanced Options` menu, choose `Memory Split` to update the amount of memory available to the GPU
