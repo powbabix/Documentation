@@ -25,7 +25,6 @@ Default User: pi
 Default Password: raspberry (change ASAP)
 ```
 Proceed to complete the Post-Image Installation Setup [detailed on this page](jasper-client/Jasper-Post-Image-Setup.md).
-**DO NOT USE POPULATE.PY**
 ## Configuration
 
 ## What to do next?
