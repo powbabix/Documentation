@@ -34,7 +34,7 @@ The default setup requires an internet connection.
     * Runs on a hosted community TTS server, no token required for setup
 
 * Set up other parameters in profile
-  * Run `sudo nano ~/.jasper/profile.yml` to edit the profile file
+  * Run `nano ~/.jasper/profile.yml` to edit the profile file
   * Overwrite the `gmail_address` and `gmail_password` with your own details to allow email inbox reading
     * Note that the first time this tries to connect, it may trigger an authentication warning with Gmail. Log in to gmail to view the notification email and allow access.
   * Overwrite `first_name` and `last_name` with your own details
